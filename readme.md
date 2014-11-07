@@ -1,6 +1,6 @@
 # pymarc scripts
 
-I was shamed into publishing these at LITA Forum 2015. It's not great code, and will need edits in many places (e.g. to point at the right files), but hopefully someone finds it useful.
+I was shamed into publishing these at LITA Forum 2014. It's not great code, and will need edits in many places (e.g. to point at the right files), but hopefully someone finds it useful.
 
 # notes
 
